@@ -46,7 +46,7 @@ The analysis was performed using **Power BI dashboards**, providing both **visua
 ---
 
 ## 🚀 How to View the Project
-Here is the Link to View My Project and Process I have done: ![Link](https://app.powerbi.com/links/riUzZFUoXw?ctid=4ba38c45-7961-42ca-b117-478661b99b10&pbi_source=linkShare)
+Here is the Link to View My Project and Process I have done: [Link](https://app.powerbi.com/links/riUzZFUoXw?ctid=4ba38c45-7961-42ca-b117-478661b99b10&pbi_source=linkShare)
 
 ---
 
